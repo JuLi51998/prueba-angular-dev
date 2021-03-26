@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "avisos-5a754": {
+      "hosting": {
+        "prueba-angular-dev": [
+          "avisos-5a754"
+        ]
+      }
+    }
+  }
+}
